@@ -14,8 +14,8 @@ Integrated the TMDB API to fetch a list of popular movies. The results are displ
 
 ## Tech Stack
 
-- **Next.js 16** - App Router, API Routes
-- **React 19** with `useState` and `useEffect` for state and data fetching
+- **Next.js 16** 
+- **React 19**
 - **react-hook-form** - form state management
 - **Zod** - used to validate data on the front end and back end.
 - **DaisyUI** - component styling
