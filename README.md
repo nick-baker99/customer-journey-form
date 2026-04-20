@@ -6,7 +6,7 @@ A multi-step registration form built for a concept movie fanatics platform where
 
 The app contains a three-step registration process: personal information, account setup, and content preferences.
 
-The form data is validated on each step before the user can continue. Once the user has completed the form the data is sent to the backend API where the data is validated again. If validation is successful, the user is redirected to a success page.
+The form data is validated on each step before the user can continue. Once the user has completed the form, the data is sent to the backend API where the data is validated again. If validation is successful, the user is redirected to a success page.
 
 ## Bonus Task
 
